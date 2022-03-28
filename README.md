@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DaleAllen28
+- 👀 I’m interested in Web Development and Software Development
+- 🌱 I’m currently learning HTML, CSS, Javascript, Jquery and SQL.
+- 📫 EMAIL: daleallendeveloper@gmail.com, NETLIFY: https://app.netlify.com/teams/daleallendeveloper/overview
